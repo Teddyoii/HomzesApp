@@ -34,14 +34,15 @@ _Screenshots available in the repository_
 
 ```
 lib/
-├── core/
-├── data/
-├── domain/
-├── presentation/
-│   ├── blocs/
-│   ├── screens/
-│   └── widgets/
-├── main.dart
+├── bloc/                  # BLoC state management (cubits, blocs, states)
+├── models/                # Data models (e.g., Property)
+├── repositories/          # Firebase and data abstraction layer
+├── screens/               # App screens (Welcome, Search, Catalog)
+├── services/              # Firebase services and API integrations
+├── widgets/               # Reusable UI components
+├── app.dart               # App-wide setup and routing
+├── firebase_options.dart  # Firebase initialization config
+└── main.dart              # App entry point
 
 ```
 
