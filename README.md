@@ -29,14 +29,10 @@ _Screenshots available in the repository_
 - Firebase Core & Firestore packages
 - Responsive Design Utilities
 
-## 🔧 Setup Instructions
-
-1. **Clone the repository**
-
-
 
 ## 📂 Folder Structure (Clean Architecture)
 
+```
 lib/
 ├── core/
 ├── data/
@@ -46,6 +42,8 @@ lib/
 │   ├── screens/
 │   └── widgets/
 ├── main.dart
+
+```
 
 ## 💡 Extras
 
