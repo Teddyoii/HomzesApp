@@ -33,12 +33,9 @@ _Screenshots available in the repository_
 
 1. **Clone the repository**
 
-```bash
-git clone https://github.com/yourusername/homzes_assignment.git
-cd homzes_assignment
 
 
-📂 Folder Structure (Clean Architecture)
+## 📂 Folder Structure (Clean Architecture)
 
 lib/
 ├── core/
@@ -50,7 +47,7 @@ lib/
 │   └── widgets/
 ├── main.dart
 
-💡 Extras
+## 💡 Extras
 
 All navigation is animated and triggered via button taps.
 
@@ -58,7 +55,8 @@ Data is fetched in real-time from Firestore using a well-structured BLoC pattern
 
 Screens are responsive and adaptive to different screen sizes.
 
-📸 Screenshots
+## 📸 Screenshots
+
 
 ![Screenshot_1744287252](https://github.com/user-attachments/assets/44e8816e-0936-4f67-a767-14b16642660d)
 ![Screenshot_1744287258](https://github.com/user-attachments/assets/75b1a869-7a80-4592-ae8a-de38b83c72a1)
